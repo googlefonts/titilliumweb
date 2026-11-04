@@ -1,0 +1,14 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+autohintTTF: false
+sources:
+  - TitilliumWeb-Black.glyphs
+  - TitilliumWeb-Bold.glyphs
+  - TitilliumWeb-BoldItalic.glyphs
+  - TitilliumWeb-Italic.glyphs
+  - TitilliumWeb-Light.glyphs
+  - TitilliumWeb-LightItalic.glyphs
+  - TitilliumWeb-Regular.glyphs
+  - TitilliumWeb-SemiBold.glyphs
+  - TitilliumWeb-SemiBoldItalic.glyphs
